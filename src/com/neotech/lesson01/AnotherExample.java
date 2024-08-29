@@ -10,7 +10,12 @@ public class AnotherExample //// this line says this is a class and the is anoth
 	
 	public static void method() {
 		
-		System.out.println("adding some method");
+		System.out.println("method");
+	}
+	
+	public void method2()
+	{
+		System.out.println("trying stash");
 	}
 	
 	
