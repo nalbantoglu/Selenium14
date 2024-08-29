@@ -18,7 +18,10 @@ public class AnotherExample //// this line says this is a class and the is anoth
 		System.out.println("trying stash");
 	}
 	
-	
+	public void iFiguredIt()
+	{
+		
+	}
 	
 public static void main(String[] args) {
 	
