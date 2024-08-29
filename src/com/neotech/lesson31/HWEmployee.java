@@ -37,10 +37,10 @@ public class HWEmployee {
 		{
 			Integer high = entry.getValue();
 			
-			if (highest <= high)
-			{
-				
-			}
+//			if (int highest <= high)
+//			{
+//				
+//			}
 			
 			
 			System.out.println(high);

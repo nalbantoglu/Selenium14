@@ -1,4 +1,4 @@
-wpackage com.neotech.lesson29;
+package com.neotech.lesson29;
 
 import java.util.*;
 
