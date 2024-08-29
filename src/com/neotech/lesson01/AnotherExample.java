@@ -8,6 +8,13 @@ public class AnotherExample //// this line says this is a class and the is anoth
 	// anything written here until next respective closing of this curly bracket above,
 	// Belong to this class
 	
+	public static void method() {
+		
+		System.out.println("adding some method");
+	}
+	
+	
+	
 public static void main(String[] args) {
 	
 	System.out.println("This is our second class!!!");
@@ -23,4 +30,5 @@ public static void main(String[] args) {
 // i should be able to understand it from the comments
 
 // colon >> :
-// semin colon >> ;
+// semin colon >> ;\
+

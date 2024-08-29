@@ -26,7 +26,7 @@ public class Task01 {
 					String word = it.next(); // using word to hold to value. i can not use it.next twice, it will jump to next item
 
 					if (word.contains("e") || word.contains("a")) {
-						it.s();
+					
 					}
 				}
 
